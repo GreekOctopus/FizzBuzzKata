@@ -1,0 +1,5 @@
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
