@@ -3,3 +3,7 @@ C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bi
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.csprojResolveAssemblyReference.cache
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\nunit.framework.dll
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\nunit.framework.xml
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\FizzBuzzApp.exe
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzTests\bin\Debug\FizzBuzzApp.pdb

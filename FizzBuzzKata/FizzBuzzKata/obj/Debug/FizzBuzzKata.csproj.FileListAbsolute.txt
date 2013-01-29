@@ -3,3 +3,5 @@ C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\bin
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
 C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\bin\Debug\nunit.framework.dll
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzKata\bin\Debug\nunit.framework.xml

@@ -1,0 +1,5 @@
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe.config
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzApp\bin\Debug\FizzBuzzApp.pdb
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzApp\obj\Debug\FizzBuzzApp.exe
+C:\Users\VasTheGreek\Documents\GitHub\FizzBuzzKata\FizzBuzzKata\FizzBuzzApp\obj\Debug\FizzBuzzApp.pdb
